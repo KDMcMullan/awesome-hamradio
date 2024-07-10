@@ -32,6 +32,8 @@
   + [fagci Mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) DualTachyon with a spectrum analyzer. 
   + [Tunas1337 M0d](https://github.com/Tunas1337/uv-k5-firmware) (Check the branches)
   + [egzumer Merged Firmware](https://github.com/egzumer/uv-k5-firmware-custom) Includes OneOfEleven and fagci mods. [Wiki/Manual.](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
+  + [F4HWM Firmware](https://github.com/armel/uv-k5-firmware-custom) Includes All egzumer features plus many more. [Web-based Flasher.](https://github.com/armel/uv-k5-firmware-custom/releases)
+    + NEW V3 firmware: The user mutst selecte: (1) not to have VOX (2) not to have Spectrum Analyser OR (3) not to have FM Broadcast reception. Deleting one of these features makes room in program memory for others.
 + [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
 + [Amateur Radio Emergency Radio Network (AREDN)](https://github.com/aredn/aredn) is a project that is delivering quality, high-speed, data communications for Emcomm via Amateur using commercial off the shelf hardware.
 
